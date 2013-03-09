@@ -6,7 +6,7 @@ Author: tekulvw
 A paper route payment tracker
 """
 
-import web.py
+import web
 
 urls = (
     '/', 'Index',
